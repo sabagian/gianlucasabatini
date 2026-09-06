@@ -4,7 +4,7 @@
 - 💻 BSc in **Computer Engineering** at the **University of Bologna**
 ## Experience
 - 🔎 Research on **Reinforcement Learning** and **3D Scene Understanding**
-- 🤖 Software Engineer Intern at **Flexion Robotics** - Zurich, CH
+- 🤖 Former Software Engineer Intern at **Flexion Robotics** - Zurich, CH
 - 📈 Former Developer Analyst Summer Intern at **Barclays** - Glasgow, UK
 ## When I'm Not Coding
 - 🎾 First Level **Tennis Instructor** of the Italian Tennis Federation (FITP)
